@@ -7,3 +7,5 @@
 **章节一：环境安装**：【[教程](https://github.com/lanyi1998/Amazing_Solana/blob/main/01-install/01.md)】
 
 **章节二：基础语法**：【[教程](https://github.com/lanyi1998/Amazing_Solana/blob/main/02-rust/02.md)】
+
+**章节二：进阶语法**：【[教程](https://github.com/lanyi1998/Amazing_Solana/blob/main/03-rust/03.md)】
